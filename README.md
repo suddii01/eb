@@ -1,1 +1,1 @@
-# Elastic Beanstalk + Docker CI/CD
+# Elastic Beanstalk + Docker CI/CD ✨
